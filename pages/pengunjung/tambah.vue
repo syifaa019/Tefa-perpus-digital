@@ -21,9 +21,10 @@
                             <div class="col-md-4">
                                 <select class="form-control form-control-lg form-select rounded-5 mb-2">
                                     <option value="">TINGKAT</option>
-                                    <option value="X">X</option>
-                                    <option value="XI">XI</option>
-                                    <option value="XII">XII</option>
+                                    <option value="X">1</option>
+                                    <option value="XI">2</option>
+                                    <option value="XII">3</option>
+                                    <option value="XII">4</option>
                                 </select>
                             </div>
                             <div class="col-md-4">
@@ -39,10 +40,9 @@
                             <div class="col-md-4">
                                 <select class="form-control form-control-lg form-select rounded-5 mb-2">
                                     <option value="">KELAS</option>
-                                    <option value="1">1</option>
-                                    <option value="2">2</option>
-                                    <option value="3">3</option>
-                                    <option value="4">4</option>
+                                    <option value="1">X</option>
+                                    <option value="2">XI</option>
+                                    <option value="3">x</option>
                                     </select>
                         </div>
                     </div>

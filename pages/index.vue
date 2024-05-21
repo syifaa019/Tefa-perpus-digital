@@ -33,7 +33,7 @@
         </div>
         <div class="col-5">
             <div class="syifa1">
-                <h2>180 Buku</h2>
+                <h2>30 Buku</h2>
             </div>
         </div>
     </div>
@@ -59,16 +59,16 @@
 }
 .card {
     height: 200px;
-    box-shadow: 1px 1px 5px #424242;
+    box-shadow: 1px 1px 5px #45AAB8;
 }
 .card.bg-pengunjung {
-    background-image: url('../assets/img/bg-home-kunjungan (1).jpeg');
+    background-image: url('../assets/img/Picture1.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 .card.bg-buku {
-    background: url('../assets/img/bg-home-cari-buku (1).jpg') no-repeat center center;
+    background: url('../assets/img/Picture2.png') no-repeat center center;
     background-size: cover;
 }
 .syifa {

@@ -1,5 +1,5 @@
 <template>
-    <div class="row p-3 bg-primary text-white">
+    <div class="row p-3 warna text-white">
         <div class="col-lg-1">
             <img  src="~/assets/img/LOGO-SMK4.png" alt="logo SMKN 4" height="100px" width="100px">
         </div>
@@ -13,3 +13,8 @@
         </div>
     </div>
 </template>
+<style>
+.warna{
+    background-color: #45AAB8;
+}
+</style>
