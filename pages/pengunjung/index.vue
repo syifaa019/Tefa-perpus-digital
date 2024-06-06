@@ -42,7 +42,7 @@ const supabase = useSupabaseClient()
 const visitors = ref([])
 
 const getPengunjung = async () => {
-    const { data, error } = await supabase.from('Pengunjung').select(`*, keanggotaan(*), keperluan(*)`)
+    const { data, error } = await supabase.from('pengunjung').select(`*, keanggotaan(*), keperluan(*)`)
     if(data) visitors.value = data
 }
 
