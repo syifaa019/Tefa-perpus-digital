@@ -11,7 +11,7 @@
                 </nuxt-link>
             </div>
             <div class="col-lg-6 box">
-              <nuxt-link to="../buku">
+            <nuxt-link to="../buku">
                     <div class="card bg-buku rounded-5">
                         <div class="card-body">
                             <h2>Cari Buku</h2>
@@ -21,8 +21,8 @@
             </div>
         </div>
     </div>
-   <h2 style="margin: 30px;"><strong>STATISTIK</strong></h2>
-   <div class="container-fluid">
+    <h2 style="margin: 30px;"><strong>STATISTIK</strong></h2>
+    <div class="container-fluid">
     <div class="row justify-content-evenly rounded-3">
         <div class="col-5">
             <div class="card1">
@@ -37,10 +37,10 @@
             </div>
         </div>
     </div>
-   </div>
-   <div class="line">
+    </div>
+    <div class="line">
     <Statistik />
-   </div>
+    </div>
 </template>
 
 <style scoped>
@@ -88,5 +88,14 @@
     justify-content: center;
     align-items: center;
     background-color: #A6E9E1;
+}
+.card-body h2{
+    color: black;
+}
+.box {
+    width: 50%;
+}
+.box a{
+    text-decoration: none;
 }
 </style>

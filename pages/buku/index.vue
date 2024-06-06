@@ -70,4 +70,13 @@
   .btn {
     background-color: #D9D9D9;
   }
+  .card-body h2{
+    color: black;
+  }
+  .box {
+    width: 50%;
+  }
+  .box a{
+    text-decoration: none;
+  }
   </style>

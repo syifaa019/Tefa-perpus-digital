@@ -20,7 +20,7 @@
           </div>
       </div>
       <NuxtLink to="/buku" class="btn btn-light btn-lg rounded-5 px-5">
-       kembali
+      kembali
       </NuxtLink>
   </div>
 </template>
